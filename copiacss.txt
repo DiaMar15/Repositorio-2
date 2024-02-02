@@ -1,0 +1,26 @@
+CSS
+Hojas de Estilo en Cascada (del inglés Cascading Style Sheets) o CSS es el lenguaje de estilos utilizado para describir la presentación de documentos HTML o XML (en-US) (incluyendo varios lenguajes basados en XML como SVG, MathML o XHTML). CSS describe como debe ser renderizado el elemento estructurado en la pantalla, en papel, en el habla o en otros medios.
+
+CSS es uno de los lenguajes base de la Open Web y posee una especificación estandarizada por parte del W3C. Anteriormente , el desarrollo de varias partes de las especificaciones de CSS era realizado de manera sincrónica, lo que permitía el versionado de las recomendaciones. Probablemente habrás escuchado acerca de CSS1, CSS2.1, CSS3. Sin embargo, CSS4 nunca se ha lanzado como una versión oficial.
+
+Desde CSS3, el alcance de las especificaciones se incrementó de forma significativa y el progreso de los diferentes módulos de CSS comenzó a mostrar varias diferencias, lo que hizo más efectivo desarrollar y publicar recomendaciones separadas por módulos. En vez de versionar las especificaciones de CSS, la W3C actualmente realiza una captura de las ultimas espcificaciones estables de CSS.
+
+Para qué sirve CSS
+Con CSS, puedes crear reglas para decirle a tu sitio web cómo quieres mostrar la información y guardar los comandos para elementos de estilo (como fuentes, colores, tamaños, etc.) separados de los que configuran el contenido.
+
+Además, puedes crear formatos específicos útiles para comunicar tus ideas y producir experiencias más agradables, en el aspecto visual, para los usuarios del sitio web.
+
+Ventajas de usar CSS
+Separación de la estructura y la presentación. CSS permite separar el contenido HTML de su presentación visual. Es decir, te permite mantener el código HTML limpio y estructurado, mientras que el estilo se define en un archivo CSS separado. Este orden mejora la legibilidad del código y facilita el mantenimiento, así como la actualización de los estilos.
+
+Consistencia y mantenibilidad. Al utilizar CSS, puedes aplicar estilos de manera consistente a un sitio o aplicación web. Los estilos se definen una vez y se aplican a múltiples elementos en las páginas, lo que favorece la renovación de la apariencia visual de todo el proyecto.
+Eficiencia en el rendimiento. CSS permite cargar estilos externos en un archivo separado. Con esto, el navegador almacenará en caché los estilos y los aplicará a todas las páginas del sitio, lo que mejora el rendimiento al reducir la cantidad de datos que deben transferirse entre el servidor y el cliente.
+
+Flexibilidad y control. Asimismo, ofrece una amplia gama de propiedades y selectores con los que tendrás un control preciso sobre el estilo de los elementos HTML. Podrás modificar, de forma sencilla, los colores, fuentes, márgenes, tamaños, diseños, etc. Gracias a esta características, podrás personalizar y adaptar a varios dispositivos y tamaños de pantalla tu sitio web.
+Desventajas de usar CSS
+
+Curva de aprendizaje. CSS puede tener una curva de aprendizaje empinada, en particular, para los principiantes. Entender, por completo, todas las propiedades, selectores y conceptos avanzados puede llevar tiempo y práctica.
+Compatibilidad entre navegadores. Aunque los estándares de CSS son de los más aceptados, algunos navegadores podrían interpretar y renderizar los estilos de manera diferente. Esto puede resultar en inconsistencias visuales y requerir pruebas o ajustes adicionales para garantizar la compatibilidad entre plataformas.
+
+Especificidad y herencia. CSS utiliza reglas de especificidad y herencia para determinar qué estilos se aplican a los elementos. En ocasiones, el orden de las reglas y la jerarquía pueden generar resultados inesperados. Esto requiere una comprensión cuidadosa de cómo funcionan estas reglas para evitar conflictos y problemas de estilo.
+Limitaciones en la maquetación. Aunque CSS ofrece una amplia gama de propiedades para el diseño y la maquetación, puede presentar limitaciones en ciertos casos más complejos. Algunos diseños específicos pueden requerir soluciones adicionales o el uso de técnicas más avanzadas para lograr el resultado deseado.
